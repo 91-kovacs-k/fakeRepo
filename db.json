@@ -2,11 +2,15 @@
   "dolgozok": [
     {
       "id": 1,
-      "title": "hello"
+      "keresztNev": "Béla",
+      "vezetekNev": "Kiss",
+      "fizetes": 5000
     },
     {
       "id": 2,
-      "title": "bello"
+      "keresztNev": "Csilla",
+      "vezetekNev": "Juhász",
+      "fizetes": 8000
     }
   ],
   "profile": {
